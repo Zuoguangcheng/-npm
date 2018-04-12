@@ -4,4 +4,4 @@ class Live {
   }
 }
 
-export default Live;
+module.exports = Live;
